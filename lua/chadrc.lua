@@ -16,7 +16,11 @@ local M = {
     },
   },
   term = {
+    sizes = {
+      vsp = 0.5
+    },
     float = {
+      row = 0.1,
       height = 0.7,
       width = 0.7,
     },
